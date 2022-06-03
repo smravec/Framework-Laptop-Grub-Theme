@@ -3,7 +3,7 @@
 ```
 git clone https://github.com/smravec/Framework-Laptop-Grub-Theme
 cd Framework-Laptop-Grub-Theme
-sudo install.sh
+sudo ./install.sh
 ```
 *Note: install script only tested on Arch Linux, other distros not guranteed to work*
 ## Preview
