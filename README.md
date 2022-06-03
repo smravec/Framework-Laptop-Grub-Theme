@@ -7,6 +7,6 @@ sudo install.sh
 ```
 *Note: install script only tested on Arch Linux, other distros not guranteed to work*
 ## Preview
-<img src ="/Variant1.png"/>
+<img src ="/Variant1-preview.png"/>
 ## Credit
 All the credit for the image goes to: 
